@@ -1,2 +1,2 @@
 # README
-Testing project for ***iruby.pro***
+Testing project for ***gem 'model-c'***
